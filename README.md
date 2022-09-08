@@ -79,6 +79,6 @@ This project was solely done by Reem Ahmed.
 
 ## Project links :
 
-Deployed Website : https://reemmda99.github.io/Responsive-Portfolio/
+Deployed Website : https://reemmda99.github.io/ReemAhmed-Portfolio/
 
-Github URL: https://github.com/ReemMDA99/Responsive-Portfolio
+Github URL: https://github.com/ReemMDA99/ReemAhmed-Portfolio
