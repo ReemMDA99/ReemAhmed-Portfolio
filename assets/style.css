@@ -64,7 +64,7 @@ h3 {
   
   /* Add an active class to highlight the current page */
 .topnav a.active {
-    background-color: #04AA6D;
+    background-color: #00915c;
     color: white;
 }
   /* Hide the link that should open and close the topnav on small screens */
